@@ -29,4 +29,5 @@ OpenMP tutorial given by Michael Klemm and Christian Terboven in 2022-02.
 * Slide deck of third day: https://github.com/cterboven/OpenMP-tutorial-PRACE-2022/blob/main/OpenMP%20Workshop%20Day%203.pdf
 
 # Exercises:
-* Download .tar.gz file: 
+* Simple codes: use .tar file: https://github.com/cterboven/OpenMP-tutorial-PRACE-2022/blob/main/openmp-simple-exercises.tar
+* More complex codes: see exercises directory: https://github.com/cterboven/OpenMP-tutorial-PRACE-2022/tree/main/exercises
