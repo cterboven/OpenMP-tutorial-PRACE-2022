@@ -1,8 +1,9 @@
 # OpenMP-tutorial-PRACE-2022
-OpenMP tutorial given by Michael Klemm and Christian Terboven in 2022-02.
+OpenMP tutorial given by Michael Klemm and Christian Terboven in 2022-02 and 2022-11.
 
 # Content
-* Event homepage: https://events.prace-ri.eu/event/1279/
+* Event homepage in 2022-02: https://doku.lrz.de/display/PUBLIC/PRACE+Course%3A+OpenMP+Programming+Workshop+2022
+* Event homepage in 2022-02: https://doku.lrz.de/display/PUBLIC/PRACE+Course%3A+OpenMP+Programming+Workshop+Nov+2022
 
 # Slide decks
 * Slide deck of first day: https://github.com/cterboven/OpenMP-tutorial-PRACE-2022/blob/main/OpenMP%20Workshop%20Day%201.pdf
